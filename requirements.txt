@@ -1,0 +1,7 @@
+Flask==3.0.0
+gunicorn
+tensorflow
+numpy
+opencv-python
+Pillow
+keras
